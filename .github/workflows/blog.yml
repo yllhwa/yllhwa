@@ -1,0 +1,13 @@
+name: Update Blogs to README
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.yllhwa.com/atom.xml
+          readme-section: feed
