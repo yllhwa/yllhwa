@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Golang-007D9C?style=flat-square&logo=go&logoColor=fff)](https://golang.google.cn/)
 
-<code>I major in software security.</code>
+<p>I major in software security.</p>
 
 <code>
    <img height="20" src="./images/ida.png" alt="ida" />
@@ -18,7 +18,7 @@
 </code>
 <br />
 
-<code>I use these tools to develop small applications.</code>
+<p>I use these tools to develop small applications.</p>
 
 <code>
    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" />
@@ -37,8 +37,7 @@
 </code>
 <br />
 
-<code>
+
 When developing, I love clean and elegant code.
 
 When reverse engineering, I prefer hacked approach.
-</code>
