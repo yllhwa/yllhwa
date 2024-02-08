@@ -15,7 +15,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" /></code>
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <code><img height="20" src="https://tailwindcss.com/favicons/favicon-32x32.png" alt="tailwindcss" /></code>
-<code><img height="20" src="https://camo.githubusercontent.com/b8ebecade711b9ae1fa306e7a1c9dd680fb56b0e2b9f015fec9cbad343570353/68747470733a2f2f6e6169766575692e6f73732d636e2d686f6e676b6f6e672e616c6979756e63732e636f6d2f6e616976656c6f676f2e737667" alt="naive-ui" /></code>
+<code><img height="20" src="https://naiveui.oss-cn-hongkong.aliyuncs.com/naivelogo.svg" alt="naive-ui" /></code>
 <code><img height="20" src="./images/flutter.svg" alt="flutter" /></code>
 <br />
 
