@@ -25,3 +25,11 @@ When developing, I love clean and elegant code.
 When reverse engineering, I prefer hacked approach.
 
 I am running a research network: AS214899.
+
+I am interested in ham radio, my callsign is BH6RKZ.
+
+...
+
+Actually, I really enjoy learning new things. 
+
+Please feel free to get in touch with me via email.
